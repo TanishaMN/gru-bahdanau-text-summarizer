@@ -45,7 +45,6 @@ amazon-review-summarizer/
 ├── src/                    # Demo script for live inference
 ├── checkpoints/            # Trained model weights (epoch 22)
 │   ├── best_model_v2/      # PyTorch folder format
-│   └── best_model_v2_fix.pt  # PyTorch single file format
 ├── dataset/                # Train / val / test CSV files
 ├── vocab/                  # vocabulary.pkl (33,379 tokens)
 ├── docs/                   # PDF documentation for each step
